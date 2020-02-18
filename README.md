@@ -1,5 +1,7 @@
 # bluegenes-go-structure-network
 
+#### Show the relationships between GO terms that one or more genes are enriched for
+
 This visualization should support both `id` and `ids`, for one or multiple genes.
 
 It should have a filter panel similar to the one in [bluegenes-GO-term-visualizer](https://github.com/intermine/bluegenes-GO-term-visualizer/blob/master/preview.png), except with only the *Ontology* filter, so it can probably be made more compact.
